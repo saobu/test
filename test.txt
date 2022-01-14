@@ -1,0 +1,61 @@
+<html>
+
+	<!DOCTYPE html>
+
+  <head>
+   "Gateau"
+  </head>
+  <?php
+		class Gateau{
+    
+			int $oeufs = 4;
+			int $maizena = 40;
+			int $yaourt = 400;  
+			string $papier="papier";
+			string $moule="moule";
+			time tempenfourner = 0;
+			time tempefrigo = 0;
+	
+				public function MelangeOuefsYaourt(){
+					$melange = oeufs + yaourt;
+				}
+				public function AjoutMaizena($melange){
+					$melangeajout = maizena + melange ;
+				}
+				public function HumiMoule(){
+				;
+				}
+				public function FroissePapierMoule(){
+				;
+				}
+				public function  Perpartion(){
+				$gateaumoule = ;
+				}
+				public function Enfourner(){
+				for ($temenfourner,time minute = 35, $temenfourner <= minute; $i++) {
+					 $gateauchaud =
+				}
+				public function  Frigo(){
+				for ($tempefrigo,time heurs = 60, $tempefrigo <= heurs; $i++) {
+					 $gateau = 
+				}
+    
+
+		}
+	?>
+
+ <body>
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+</html>
